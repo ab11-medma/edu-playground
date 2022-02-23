@@ -27,7 +27,7 @@ Then transform the graph structure into a PyTorch tensor, so that you can perfor
 Finish implementing your first graph learning algorithm: a node embedding model.
 
 ### Notebook Link
-https://colab.research.google.com/drive/1Nj88CaT8__i5TejaSVoTxRXDKO7ZuT1U?usp=sharing
+Link: https://colab.research.google.com/drive/1Nj88CaT8__i5TejaSVoTxRXDKO7ZuT1U?usp=sharing
 
 ### CoLab 1: Learning Node Embeddings - Related Lectures
 1.1 Traditional Feature-based Methods
