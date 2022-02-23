@@ -14,14 +14,14 @@ For the PyTorch Geometric section, you don't need to understand all of the detai
 ### Notebook Link
 CoLab 0: Course Prep and Tutorials
 
-## Colab 1
+
+## Colab 1
 
 ### CoLab 1: Learning Node Embeddings
 Due: February 13 (On-time) or February 18 (Late)
  
 ### Overview
 In this Colab you will write a pipeline for learning node embeddings over a classic graph in network science, the the Karate Club Network. You will:
-
 Explore multiple graph statistics for this graph.
 Then transform the graph structure into a PyTorch tensor, so that you can perform machine learning over the graph.
 Finish implementing your first graph learning algorithm: a node embedding model.
