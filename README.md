@@ -52,8 +52,8 @@ Link: https://colab.research.google.com/drive/1ArswgTCQZVDUQk0txcww2lyD8c1CC4dl?
 CoLab 2: GNNs Using PyTorch Geometric
 
 ### Related Lectures
-2.1 Graph Neural Networks (GNNs)
-2.2 GNN Design Space
-2.3 GNN Training Pipeline
+- 2.1 Graph Neural Networks (GNNs)
+- 2.2 GNN Design Space
+- 2.3 GNN Training Pipeline
 
 
