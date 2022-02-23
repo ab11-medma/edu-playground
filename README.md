@@ -11,7 +11,8 @@ In this Colab, we will introduce two packages, NetworkX and PyTorch Geometric.
 
 For the PyTorch Geometric section, you don't need to understand all of the details yet. Concepts and implementations of graph neural network will be covered in future lectures and Colabs.
 
-### Notebook Link
+### Notebook 
+Link
 CoLab 0: Course Prep and Tutorials
 
 
@@ -49,9 +50,8 @@ Build you own graph neural network using PyTorch Geometric.
 
 ### Notebook 
 Link: https://colab.research.google.com/drive/1ArswgTCQZVDUQk0txcww2lyD8c1CC4dl?usp=sharing
-CoLab 2: GNNs Using PyTorch Geometric
 
-### Related Lectures
+### CoLab 2: GNNs Using PyTorch Geometric - Related Lectures
 - 2.1 Graph Neural Networks (GNNs)
 - 2.2 GNN Design Space
 - 2.3 GNN Training Pipeline
